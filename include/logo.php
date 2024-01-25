@@ -1,0 +1,1 @@
+<img src="<?=SITE_TEMPLATE_PATH?>/images/logo.png" alt="СОЮЗ-МЕД 27">

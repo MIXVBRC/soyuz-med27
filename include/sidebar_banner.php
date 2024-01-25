@@ -1,0 +1,1 @@
+<img width="300" height="200" title="Медик" alt="Медик" src="/upload/medialibrary/5cf/5cf735e3f1a40c7b720a3fdf558fdf6a.jpg"><br>
